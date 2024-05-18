@@ -2,7 +2,7 @@
 
 This is in three idioms: Spanish (ES), Catalan (CA), and English (EN).
 
-Just like the original game, it updates the word to guess every day at 00:00 🕛
+Just like the original game, you have 6 attempts to guess the word, it doesn't let you put words that doesn't exist and it updates the word to guess every day at 00:00 🕛
 
 It's written in Python and I used TKinter library for the UI and SQLite for database.
 
