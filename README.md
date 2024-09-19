@@ -7,7 +7,7 @@ Just like the original game, you have 6 attempts to guess the random word and it
 🟧 -> correct letter in incorrect place  
 ⬜️ -> incorrect letter  
 
-It will let you know if yu are writting some letter that you already know it's not in the word and it doesn't let you write words that doesn't exist in the dictionary.
+It will let you know if you are writting some letter that you already know it's not in the word and it doesn't let you write words that doesn't exist in the dictionary.
 
 It's written in **Python**, I used **TKinter** library for UI and **SQLite** for database.
 
