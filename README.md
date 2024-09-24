@@ -1,4 +1,4 @@
-# Wordle
+# WORDLE
 
 *Available in three languages: Spanish (**ES**), Catalan (**CA**), and English (**EN**).*
 
