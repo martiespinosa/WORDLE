@@ -1,15 +1,16 @@
 # Wordle
 
-Available in three languages: Spanish (ES), Catalan (CA), and English (EN).
+*Available in three languages: Spanish (**ES**), Catalan (**CA**), and English (**EN**).*
 
-Just like the original game, you have 6 attempts to guess the random word and it gets updated every day at 00:00 🕛  
-🟩 -> correct letter in correct place  
-🟧 -> correct letter in incorrect place  
-⬜️ -> incorrect letter  
+Just like the original game, you have **6 attempts** to guess the random word, which is updated daily at **00:00** 🕛  
+🟩 → correct letter in the correct position  
+🟧 → correct letter in the wrong position  
+⬜️ → incorrect letter  
 
-It will let you know if you are writting some letter that you already know it's not in the word and it doesn't let you write words that doesn't exist in the dictionary.
+It won’t allow you to enter words that aren’t in the dictionary.
+It will let you know if you attempt to use a letter that has already been ruled out.
 
-It's written in **Python**, I used **TKinter** library for UI and **SQLite** for database.
+It's built with **Python**, using the **TKinter** library for UI and **SQLite** for DB.
 
 ![BRUSH](img/img1.png)
 ![LEARN](img/img2.png)
