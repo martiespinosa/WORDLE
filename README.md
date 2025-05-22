@@ -7,10 +7,10 @@ Just like the original game, you have **6 attempts** to guess the random word, w
 🟧 → correct letter in the wrong position  
 ⬜️ → incorrect letter  
 
-It won’t allow you to enter words that aren’t in the dictionary.
-It will let you know if you attempt to use a letter that has already been ruled out.
+✔ It won’t let you enter words that aren’t in the dictionary.  
+✔ It will warn you if you try to use a letter that has already been ruled out.
 
-It's built with **Python**, using the **TKinter** library for UI and **SQLite** for DB.
+The game is built with **Python**, using the **Tkinter** library for the UI and **SQLite** for the database.
 
 ![BRUSH](img/img1.png)
 ![LEARN](img/img2.png)
